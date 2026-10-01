@@ -1,3 +1,7 @@
+## Article
+
+https://fulim.tech/blog/rest-api-with-echo-sqlc-migrate-postgres/
+
 ## How to Run Application
 
 ```sh
